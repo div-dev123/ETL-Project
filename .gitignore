@@ -4,5 +4,4 @@ __pycache__/
 .env
 *.log
 .DS_Store
-os/bin
-os/include
+os/
